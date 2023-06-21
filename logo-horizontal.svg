@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 79.064003 12"
+   viewBox="0 0 79.011002 12"
    version="1.1"
    id="svg11"
    sodipodi:docname="logo-horizontal.svg"
-   width="79.064003"
+   width="79.011002"
    height="12"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    inkscape:export-filename="logo-horizontal.svg"
@@ -28,6 +28,48 @@
        width="43.440823"
        height="15.859348"
        id="rect121" />
+    <rect
+       x="-348.28607"
+       y="16.585052"
+       width="590.42786"
+       height="585.45233"
+       id="rect459-2" />
+    <rect
+       x="-348.28607"
+       y="16.585052"
+       width="590.42786"
+       height="585.45233"
+       id="rect459-2-5" />
+    <linearGradient
+       id="linearGradient10336"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#151515;stop-opacity:1;"
+         offset="0"
+         id="stop10334" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3351"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#f7931a;stop-opacity:1;"
+         offset="0"
+         id="stop3349" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4978"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4976" />
+    </linearGradient>
+    <rect
+       x="-348.28607"
+       y="16.585052"
+       width="590.42786"
+       height="585.45233"
+       id="rect459-3-0" />
   </defs>
   <sodipodi:namedview
      id="namedview13"
@@ -39,12 +81,12 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="128"
-     inkscape:cx="73.664062"
-     inkscape:cy="7.4609375"
-     inkscape:window-width="1920"
-     inkscape:window-height="974"
-     inkscape:window-x="-11"
+     inkscape:zoom="256"
+     inkscape:cx="81.601562"
+     inkscape:cy="8.7441406"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="2869"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="g9" />
@@ -62,7 +104,7 @@
        id="path6" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.152px;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';fill:#000000;stroke-width:0.550636"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.152px;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';letter-spacing:0px;fill:#000000;stroke-width:0.550636"
        x="0.66223204"
        y="11.95248"
        id="text474"
@@ -72,6 +114,7 @@
          id="tspan472"
          x="0.66223204"
          y="11.95248"
-         style="stroke-width:0.550636">VENTUNO</tspan></text>
+         style="stroke-width:0.550636"
+         dx="0 0.78125">VENTUNO</tspan></text>
   </g>
 </svg>
