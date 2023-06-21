@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 1003.382 628.46545"
+   viewBox="0 0 1028.3819 628.46545"
    version="1.1"
    id="svg190"
    sodipodi:docname="logo-square-inverted.svg"
-   width="1003.382"
+   width="1028.382"
    height="628.46545"
-   inkscape:export-filename="white-logo-square.png"
+   inkscape:export-filename="logo-square.png"
    inkscape:export-xdpi="68.997665"
    inkscape:export-ydpi="68.997665"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -142,14 +142,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.95758929"
-     inkscape:cx="299.71095"
-     inkscape:cy="328.95105"
-     inkscape:window-width="1920"
-     inkscape:window-height="974"
-     inkscape:window-x="-11"
+     inkscape:cx="300.2331"
+     inkscape:cy="453.22144"
+     inkscape:window-width="2880"
+     inkscape:window-height="1514"
+     inkscape:window-x="2869"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg190" />
+     inkscape:current-layer="g575-0" />
   <style
      id="style179">#text{fill:#000}@media (prefers-color-scheme:dark){#text{fill:#fff}}</style>
   <g
@@ -161,7 +161,7 @@
      style="fill:#f7931a;fill-opacity:1;stroke-width:0.999754;stroke-dasharray:none"
      inkscape:label="g575">
     <g
-       transform="matrix(1.0047749,0,0,1.0047768,794.0415,685.5739)"
+       transform="matrix(1.0047749,0,0,1.0047768,819.16095,685.5739)"
        id="g184-1"
        style="fill:url(#linearGradient3353);fill-opacity:1;stroke-width:0.995002;stroke-dasharray:none"
        inkscape:label="g184">
@@ -181,21 +181,21 @@
     <text
        xml:space="preserve"
        id="text457-5-2"
-       style="font-size:96px;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';white-space:pre;shape-inside:url(#rect459-3-0);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.232157;stroke-dasharray:none"
+       style="font-size:96px;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';letter-spacing:2.91654px;white-space:pre;shape-inside:url(#rect459-3-0);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.232157;stroke-dasharray:none"
        transform="matrix(4.3019434,0,0,4.3108046,1477.8994,370.04271)"
        inkscape:label="uno"><tspan
          x="-348.28516"
          y="100.58594"
-         id="tspan172">UNO
+         id="tspan2127">UNO
 </tspan></text>
     <text
        xml:space="preserve"
        id="text457-1"
-       style="font-size:95.9785px;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';white-space:pre;shape-inside:url(#rect459-2);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.230367;stroke-dasharray:none"
+       style="font-size:95.9785px;font-family:'The Bold Font';-inkscape-font-specification:'The Bold Font';letter-spacing:2.89406px;white-space:pre;shape-inside:url(#rect459-2);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:0.230367;stroke-dasharray:none"
        transform="matrix(4.3977801,0,0,4.2826366,1549.233,45.658971)"
        inkscape:label="vent"><tspan
          x="-348.28516"
          y="100.56713"
-         id="tspan174">VENT</tspan></text>
+         id="tspan2129">VENT</tspan></text>
   </g>
 </svg>
